@@ -1,0 +1,119 @@
+/*cabeçalho*/
+
+header img {
+    height: 70px;
+    width: 70px;
+}
+
+/*Conteudo principal*/
+
+main {
+    background-color: black;
+    min-height: 500px;
+}
+
+.cor-fundo{
+    background-color: black;
+}
+
+.nav-link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-right: 200px;
+    color: white;
+}
+
+.d-flex {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*banner*/
+
+#section-banners img {
+    height: 500px;
+}
+
+/*Produtos vendidos*/
+
+#section-vendidos {
+    text-align: center;
+    color: white;
+}
+
+#section-vendidos h2 {
+    font-weight: bold;
+    padding: 20px;
+}
+
+#section-vendidos img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card{
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #020130;
+}
+
+#section-vendidos .preco{
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+/*Rodapé*/
+
+footer {
+    text-align: center; 
+    color: white;
+    background-color: black;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 50px;
+}
+
+/*Botão Voltar topo*/
+
+#voltar-topo {
+    color: white;
+    border-color: #fff;
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+}
+/* página de login  */
+
+#section-login {
+    margin-top: ;
+    color: white;
+}
+
+#section-login h1 {
+    color: white;
+    text-align: center;
+}
+
+#section-login input {
+    width: 100%;
+}
+
+#botao-cadastrar {
+    background-color: black;
+}
+
+/* Formulário de cadastro*/
+
+#section-cadastro {
+    padding: 5px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#form-cadastrar {
+    padding: 50px;
+    display: none;
+}
+
